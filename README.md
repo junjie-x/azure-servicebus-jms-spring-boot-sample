@@ -33,9 +33,9 @@ These modules [Service Bus Queue Sample](./azure-servicebus-jms-queue-spring-boo
 
 Please refer to specific `README` of related module for detail usage according to your needs.
 
-* [README](./spring-jms-servicebus-sample/azure-servicebus-queue-spring-jms-sample/README.md) for Spring JMS for Azure Service Bus Queue usage
+* [README](./azure-servicebus-jms-queue-spring-boot-sample/README.md) for Spring JMS for Azure Service Bus Queue usage
 
-* [README](./spring-jms-servicebus-sample/azure-servicebus-topic-spring-jms-sample/README.md) for Spring JMS for Azure Service Bus Topic usage
+* [README](./azure-servicebus-jms-topic-spring-boot-sample/README.md) for Spring JMS for Azure Service Bus Topic usage
 
 
 ## Allow telemetry
