@@ -34,6 +34,8 @@
 
     <properties>
         <project.rootdir>${project.basedir}</project.rootdir>
+        <checkstyle.skip>true</checkstyle.skip>
+        <findbugs.skip>true</findbugs.skip>
     </properties>
 
     <dependencies>
